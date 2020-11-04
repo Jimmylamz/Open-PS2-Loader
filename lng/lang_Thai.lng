@@ -41,60 +41,60 @@ ETH เกม
 เครื่องจะปิด.
 กลับไปยังหน้าหลัก?
 ยกเลิกอัพเดท?
-%d: HardDisk Drive not detected.
-%d: HardDisk Drive not formatted.
-%d: Network startup error.
-%d: No network adaptor detected.
-%d: Cannot connect to SMB server.
-%d: Cannot log into SMB server.
-%d: Cannot open SMB share.
-%d: Cannot list SMB shares.
-%d: Cannot list games.
-%d: DHCP server unavailable.
-%d: No network connection.
-On
-Off
-OK
-Select
-Cancel
-Circle
-Cross
-Games List
-Game Settings
-Remove Settings
-Removed all keys for the game.
-Scrolling
-Slow
-Medium
-Fast
-Default Menu
-Load From Disc
-Please wait.
-Error while loading the Game ID.
-Automatic Sorting
-Error loading the language file.
-Disable Debug Colors
-No controller detected, waiting...
-Enable Cover Art
-Widescreen
-Power Off
-Loading config...
-Saving config...
-Start Device
-Refresh
-USB Device Start Mode
-HDD Device Start Mode
-ETH Device Start Mode
-Applications Start Mode
-Auto
-Manual
-Start HDL Server
-HDL Server starting...
-HDL Server running...
-Failed to start HDL Server.
-HDL Server unloading...
+%d: ไม่เจอฮาร์ดดิสก์.
+%d: ฮาร์ดดิสก์ยังไม่ฟอร์แมต.
+%d: เริ่มเครือค่ายผิดพลาด.
+%d: ไม่พบอุปกรณ์เครือค่าย.
+%d: เชื่อมต่อผิดพลาดไปยัง SMB server.
+%d: ไม่สามารถเข้าสู่ระบบ SMB server.
+%d: ไม่สามารถเปิด SMB share.
+%d: ไม่สามารถแสดง SMB shares.
+%d: ไม่สามารถแสดงแสดงรายชื่อเกม.
+%d: DHCP เครือค่ายผิดพลาด.
+%d: ไม่พบการเชื่อมต่อเครือค่าย.
+เปิด
+ปิด
+ตกลง
+เลือก
+ยกเลิก
+ปุ่ม O
+ปุ่ม X
+รายชื่อเกม
+ตั้งค่าเกม
+ลบการตั้งค่า
+ลบการตั้งค่าทั้งหมดของเกม.
+บังคับเลื่อน
+ช้า
+ปานกลาง
+เร็ว
+ค่าเมนูเดิม
+อ่านข้อมูลจากดิสก์
+โปรดรอ.
+ผิดพลาดขณะอ่านไอดีเกม.
+จัดเรียงอัตโนมัติ
+ผิดพลาดขณะอ่านไฟร์ภาษา.
+ปิดแสดงจุดบกพร่องด้วยสี
+ไม่พบจอยบังคับ, รออยุ่...
+เปิดแสดงปกเกม
+จอกว้าง
+ปิดเครื่อง
+กำลังอ่านตั้งค่า...
+กำลังบันึกตั้งค่า...
+กำลังเริ่มอุปกรณ์
+ฟื้นคืน
+USB เป็นหน้าหลัก
+HDD เป็นหน้าหลัก
+ETH เป็นหน้าหลัก
+เลือกหน้าหลัก
+อัตโนมัติ
+ตั้งเอง
+เริ่มเครือค่าย HDL
+HDL เครือค่ายกำลังเริ่ม...
+HDL เครือค่ายพร้อมแล้ว...
+เชื่อมต่อผิดพลาดไปยังเครือค่าย HDL.
+HDL เครือค่ายสิ้นสุด...
 IGR Path
-Background Color
+สีพี้นหลัง
 Text Color
 - PS2 -
 - SMB Server -
