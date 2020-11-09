@@ -32,9 +32,9 @@ Open PS2 Loader %s
 ออก
 ตั้งค่า
 เมนู
-USB เกม
-HDD เกม
-ETH เกม
+USB เกมส์
+HDD เกมส์
+ETH เกมส์
 แอพ
 ธีม
 ภาษา
@@ -59,10 +59,10 @@ ETH เกม
 ยกเลิก
 ปุ่ม O
 ปุ่ม X
-รายชื่อเกม
-ตั้งค่าเกม
+รายชื่อเกมส์
+ตั้งค่าเกมส์
 ลบการตั้งค่า
-ลบการตั้งค่าทั้งหมดของเกม.
+ลบการตั้งค่าทั้งหมดของเกมส์.
 บังคับเลื่อน
 ช้า
 ปานกลาง
@@ -70,12 +70,12 @@ ETH เกม
 ค่าเมนูเดิม
 อ่านข้อมูลจากดิสก์
 โปรดรอ.
-ผิดพลาดขณะอ่านไอดีเกม.
+ผิดพลาดขณะอ่านไอดีเกมส์.
 จัดเรียงอัตโนมัติ
 ผิดพลาดขณะอ่านไฟร์ภาษา.
 ปิดแสดงจุดบกพร่องด้วยสี
 ไม่พบจอยบังคับ, รออยุ่...
-เปิดแสดงปกเกม
+เปิดแสดงปกเกมส์
 จอกว้าง
 ปิดเครื่อง
 กำลังอ่านตั้งค่า...
@@ -93,64 +93,64 @@ HDL เครือค่ายกำลังเริ่ม...
 HDL เครือค่ายพร้อมแล้ว...
 เชื่อมต่อผิดพลาดไปยังเครือค่าย HDL.
 HDL เครือค่ายสิ้นสุด...
-IGR Path
+IGR ตั้งค่าที่อยุ่ OPL เวลารีเซ็ท
 สีพี้นหลัง
-Text Color
+สีตัวอักษร
 - PS2 -
-- SMB Server -
-IP Address Type
-Static
-DHCP
-IP Address
-Address
-Mask
-Gateway
-DNS Server
-Port
-Share
-User
-Password
+- เชอเวอร์ SMB -
+ชนิดหมายเลขไอพี
+คงที่
+แบบ DHCP
+ระบุเลขไอพี
+ที่อยุ่
+ซัพเน็ต
+เร้าเตอร์
+หมายเลข DNS
+พอร์ท
+การแจกจ่าย
+ไอดี
+รหัสผ่าน
 <not set>
-Address Type
-IP
-NetBIOS
-Accept
-Item will be permanently deleted, continue?
-Rename
-Delete
-Run
-Display Settings
-Enable Write Operations
-Check USB Game Fragmentation
-Remember Last Played Game
-Select Button
-Error, the game is fragmented.
-Error, could not run the item.
-Test Changes
-Leave empty for GUEST auth.
-Accurate Reads
-Synchronous Mode
-Unhook Syscalls
-Skip Videos
-Emulate DVD-DL
-Disable IGR
-Unused
-Unused
-Changing the size will reformat the VMC.
-Create
-Start
-Modify
-Abort
-Reset
-Use Generic
-Configure VMC
-Name
-Size
-Status
-Progress
-VMC file exists.
-Invalid VMC file, size is incorrect.
-VMC file needs to be created.
+ชนิดของที่อยุ่
+ไอพี
+เน็ตไบออส
+ตกลง
+ตั้งค่านี้จะลบอย่างถาวร, ทำต่อ?
+แก้ชื่อ
+ลบ
+เริ่ม
+ตั้งค่าแสดงผล
+เปิดใช้ง่านโหมดแก้ไข
+ตรวจสอบการจัดเรียงไฟร์ USB
+จดจำเกมส์ล่าสุด
+เลือกปุ่ม
+ผิดพลาด, เกมนี้ต้องจัดเรียงไฟร์ใหม่.
+ผิดพลาด, เกมนี้ไม่สามารถเรียกใช้านได้.
+ทดสอบการตั้งค่า
+ว่างไว้หากต้องใช้ไอดีผู้เยี่ยมชม.
+อ่านข้อมูลแบบละเอียด
+อ่านข้อมูลแบบตามจังหวะ
+ยกเลิก Syscalls
+ข้ามภาพแสดงผล
+จำลอง DVD-DL
+ปิดใช้งาน IGR
+ไม่ใช้
+ไม่ใช้
+เปลี่ยนแปลงขนาดจะทำการฟอร์แมต VMC.
+สร้าง
+เริ่ม
+แก้ไข
+ยกเลิก
+รีเช็ท
+ใช้ค่าเดิม
+แก้ไข VMC
+ชื่อ
+ขนาด
+สถานะ
+ความเคลื่อนไหว
+VMC มีอยุ่แล้ว.
+VMC ไฟร์, ขนากไม่ถูกต้อง.
+VMC ต้องการสร้างไฟร์ใหม่.
 Error accessing VMC %s. Continue with the Memory Card in slot %d?
 Automatic Refresh
 About
